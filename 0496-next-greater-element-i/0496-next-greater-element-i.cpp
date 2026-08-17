@@ -1,26 +1,29 @@
+#include <iostream>
+#include <vector>
+#include <unordered_map>
+#include <stack>
+using namespace std;
+
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-
-        int nextGreater[10001];
-        int st[1000];
-        int top = -1;
+        
+        unordered_map<int, int> nextGreater;
+        stack<int> st;
 
         for (int num : nums2) {
 
-            while (top >= 0 && num > st[top]) {
-                nextGreater[st[top]] = num;
-                top--;
+            while (!st.empty() && st.top() < num) {
+                nextGreater[st.top()] = num;
+                st.pop();
             }
 
-            st[++top] = num;
+            st.push(num);
         }
-
-        while (top >= 0) {
-            nextGreater[st[top]] = -1;
-            top--;
+        while (!st.empty()) {
+            nextGreater[st.top()] = -1;
+            st.pop();
         }
-
         vector<int> ans;
 
         for (int num : nums1) {
