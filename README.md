@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/falaksharma21/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/falaksharma21/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
