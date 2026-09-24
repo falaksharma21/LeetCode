@@ -8,6 +8,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/falaksharma21/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/falaksharma21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/falaksharma21/LeetCode/tree/master/0506-relative-ranks) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/falaksharma21/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/falaksharma21/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/falaksharma21/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
