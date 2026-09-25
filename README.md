@@ -16,10 +16,12 @@
 | [0205-isomorphic-strings](https://github.com/falaksharma21/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/falaksharma21/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/falaksharma21/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/falaksharma21/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/falaksharma21/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/falaksharma21/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/falaksharma21/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/falaksharma21/LeetCode/tree/master/0506-relative-ranks) |
+| [1096-brace-expansion-ii](https://github.com/falaksharma21/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
@@ -50,4 +53,13 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/falaksharma21/LeetCode/tree/master/0205-isomorphic-strings) |
+| [1096-brace-expansion-ii](https://github.com/falaksharma21/LeetCode/tree/master/1096-brace-expansion-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/falaksharma21/LeetCode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/falaksharma21/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
